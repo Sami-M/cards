@@ -6,4 +6,9 @@ babel-node card.js
 
 babel-node deck.js
 
+## Tests
+written in Facebook's Jest 
+
 npm test
+
+
