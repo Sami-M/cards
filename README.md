@@ -3,5 +3,7 @@
 
 ## Uses
 babel-node card.js
+
 babel-node deck.js
+
 npm test
